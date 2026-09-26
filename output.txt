@@ -1,0 +1,19 @@
+Inorder Traversal:
+A102 A120 A25 A45 A7 B100 B12 B3
+
+Original BST Height:
+6
+
+Search Comparison Results:
+
+Search ID    BST Search    Linear Search
+A102         1             1
+A45          4             8
+B12          5             5
+B3           6             7
+
+Changed Insertion Order:
+A45 A120 B3 A7 B12 A25 B100 A102
+
+Changed BST Height:
+5
